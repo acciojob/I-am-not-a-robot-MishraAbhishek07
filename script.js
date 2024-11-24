@@ -3,7 +3,7 @@
 const tilesContainer = document.getElementById('tiles-container');
 const resetButton = document.getElementById('reset');
 const verifyButton = document.getElementById('verify');
-const result = document.getElementById('result');
+const result = document.getElementById('h');
 
 // List of images
 const imageClasses = ['img1', 'img2', 'img3', 'img4', 'img5'];
